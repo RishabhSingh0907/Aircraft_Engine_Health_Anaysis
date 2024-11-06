@@ -1,7 +1,3 @@
-Here's a detailed `README.md` for your Aircraft Engine Predictive Maintenance project:
-
----
-
 # Aircraft Engine Health Analysis for Predictive Maintenance
 
 ## Overview
